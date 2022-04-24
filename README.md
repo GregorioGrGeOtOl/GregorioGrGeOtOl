@@ -1,8 +1,8 @@
 ## Gregório Neto
 
-✌ DESELVOLVDOR FULLSTACK🔋
+Full stack programmer in development 🚀
 
-EM CONSTRUÇÃO 🚧 
+Em processo de desenvolvimento... 🚧 
  <div align="center">
   <a href="https://github.com/GregorioGrGeOtOl">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GregorioGrGeOtOl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
