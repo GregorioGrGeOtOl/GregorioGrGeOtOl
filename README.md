@@ -27,6 +27,6 @@ EM CONSTRUÇÃO 🚧
   <!-- <a href="https://www.linkedin.com/in/luiz-andrade-51177367/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
 
- ![Snake animation](https://github.com/GregorioGrGeOtOl/GregorioGrGeOtOl/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GregorioGrGeOtOl/GregorioGrGeOtOl/blob/ddb490476ea17306296f3b1ac2e5eaa778096cec/.github/workflows/snake.yml)
  
 </div>
